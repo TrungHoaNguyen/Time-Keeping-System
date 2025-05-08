@@ -1,0 +1,7 @@
+1 _ nguyen trung hoa _ 100000
+2 _ nguyen trung kien _ 100000
+3 _ nguyen van cuong _ 100000
+4 _ le thuy lien _ 100000
+5 _ nguyen trong hoang _ 100000
+6 _ Nguyen van kiet _ 100000
+7 _ Nguyen Van Bay _ 100000
